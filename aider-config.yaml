@@ -1,0 +1,23 @@
+#############
+# Main model:
+
+## Specify the model to use for the main chat
+model: gemini/gemini-2.5-flash-preview-05-20
+
+
+##################
+# Output settings:
+
+## Use colors suitable for a dark terminal background (default: False)
+dark-mode: true
+
+## Set the markdown code theme (default: default, other options include monokai, solarized-dark, solarized-light, or a Pygments builtin style, see https://pygments.org/styles for available themes)
+code-theme: monokai
+
+
+###############
+# Git settings:
+
+## Enable/disable auto commit of LLM changes (default: True)
+auto-commits: false
+
