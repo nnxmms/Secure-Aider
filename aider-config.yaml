@@ -7,6 +7,7 @@ model: gemini/gemini-2.5-flash-preview-05-20
 ## Model Coding Conventions
 read: /aider-config/CONVENTIONS.md
 
+
 ##################
 # Output settings:
 
