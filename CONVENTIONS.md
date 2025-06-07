@@ -1,0 +1,7 @@
+- Always include `#!/usr/bin/python3` at the top of the python file
+- Always type every variable and function e.g. `x: int = 3` and `def sum(x: int, y; int) -> int:`
+- Always use docstring to document functions and classes e.g. `:param x: First integer\n:param y: Second integer\n:return int: Sum of x and y`
+- Always use clean, simple and structured code
+- Never write huge functions, split the logic up into multiple smaller ones instead
+- Never write full sentences as comments. Use short comments instead. E.g. Instead of `Summing up the integers x and y` write `Sum of x and y`
+- Never write comments behind a line of code, always above
